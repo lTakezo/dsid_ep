@@ -1,0 +1,4517 @@
+{
+  "data": [
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "660525",
+        "name": "Brasil Suites Hotel Apartments",
+        "latitude": "37.857014",
+        "longitude": "23.755278",
+        "num_reviews": "411",
+        "timezone": "Europe/Athens",
+        "location_string": "Glyfada, Attica",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/41/d3/af/brasil-suites-hotel-apartments.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/41/d3/af/brasil-suites-hotel-apartments.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "5000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/41/d3/af/brasil-suites-hotel-apartments.jpg",
+              "height": "3327"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/41/d3/af/brasil-suites-hotel-apartments.jpg",
+              "height": "366"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/41/d3/af/brasil-suites-hotel-apartments.jpg",
+              "height": "166"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-12-10T05:52:45-0500",
+          "caption": "Junior suite bedroom ",
+          "id": "440521647",
+          "helpful_votes": "0",
+          "published_date": "2019-12-10T05:52:45-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Glyfada",
+            "abbrv": null,
+            "location_id": "562630"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Attica",
+            "abbrv": null,
+            "location_id": "189399"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Greece",
+            "abbrv": null,
+            "location_id": "189398"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "4 Eleftherias",
+          "street2": "4 Elefterias Street  Glyfada",
+          "city": "Glyfada",
+          "state": null,
+          "country": "Greece",
+          "postalcode": "166 74"
+        },
+        "address": "4 Eleftherias 4 Elefterias Street  Glyfada, Glyfada 166 74 Greece",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 124 reviews"
+      },
+      "review_snippet": {
+        "snippet": ", but also within striking range of Athens, and a family suite at the Brasil",
+        "spans": [
+          {
+            "start_index": 70,
+            "end_index": 76
+          }
+        ],
+        "review_id": "703180758"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "4722258",
+        "name": "Monte Brasil",
+        "latitude": "38.655827",
+        "longitude": "-27.2209",
+        "num_reviews": "1341",
+        "timezone": "Atlantic/Azores",
+        "location_string": "Angra do Heroismo, Terceira, Azores",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/10/9a/5a/terceira-es-la-segunda.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/10/9a/5a/terceira-es-la-segunda.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/10/9a/5a/terceira-es-la-segunda.jpg",
+              "height": "854"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/10/9a/5a/terceira-es-la-segunda.jpg",
+              "height": "683"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/10/9a/5a/terceira-es-la-segunda.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2019-01-12T03:22:37-0500",
+          "caption": "Terceira es la segunda isla m\u00e1s poblada de la Azores, con 58.000 habitantes y 60.00 cabezas de ganado, seg\u00fan repet\u00edan los lugare\u00f1os. Tiene una superficie de 400 km2, con 30km de largo y 17 de ancho lo que te permite pasar de un extremo a otro de la isla en muy poco tiempo.",
+          "id": "370186842",
+          "helpful_votes": "1",
+          "published_date": "2019-01-12T03:22:37-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Angra do Heroismo",
+            "abbrv": null,
+            "location_id": "189137"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "island",
+                "name": "Island"
+              }
+            ],
+            "name": "Terceira",
+            "abbrv": null,
+            "location_id": "189136"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Azores",
+            "abbrv": null,
+            "location_id": "189123"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Portugal",
+            "abbrv": null,
+            "location_id": "189100"
+          }
+        ],
+        "category": {
+          "key": "attraction",
+          "name": "Attraction"
+        },
+        "subcategory": [
+          {
+            "key": "47",
+            "name": "Sights & Landmarks"
+          },
+          {
+            "key": "57",
+            "name": "Nature & Parks"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Freguesia da Se",
+          "street2": null,
+          "city": "Angra do Heroismo",
+          "state": null,
+          "country": "Portugal",
+          "postalcode": null
+        },
+        "address": "Freguesia da Se, Angra do Heroismo, Terceira Portugal",
+        "is_candidate_for_contact_info_suppression": false,
+        "shopping_type": "none"
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 129 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Monte Brasil is an extinct volcano  and protected natural park that joins",
+        "spans": [
+          {
+            "start_index": 6,
+            "end_index": 12
+          }
+        ],
+        "review_id": "737639168"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "508231",
+        "name": "Hotel Brasil",
+        "latitude": "38.539444",
+        "longitude": "-0.134301",
+        "num_reviews": "432",
+        "timezone": "Europe/Madrid",
+        "location_string": "Benidorm, Costa Blanca, Province of Alicante, Valencian Country",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/1b/f6/7d/piscina.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/1b/f6/7d/piscina.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2064",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/1b/f6/7d/piscina.jpg",
+              "height": "1277"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/1b/f6/7d/piscina.jpg",
+              "height": "340"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/1b/f6/7d/piscina.jpg",
+              "height": "155"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-04-10T08:58:04-0400",
+          "caption": "PIscina",
+          "id": "387708541",
+          "helpful_votes": "6",
+          "published_date": "2019-04-10T08:58:04-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Benidorm",
+            "abbrv": null,
+            "location_id": "187525"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "province",
+                "name": "Province"
+              }
+            ],
+            "name": "Costa Blanca",
+            "abbrv": null,
+            "location_id": "187523"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "province",
+                "name": "Province"
+              }
+            ],
+            "name": "Province of Alicante",
+            "abbrv": null,
+            "location_id": "187524"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Valencian Country",
+            "abbrv": null,
+            "location_id": "187521"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle Apolo XI 27",
+          "street2": "",
+          "city": "Benidorm",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "03501"
+        },
+        "address": "Calle Apolo XI 27, 03501 Benidorm Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 45 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Just returned from a five day stay at the Hotel Brasil.",
+        "spans": [
+          {
+            "start_index": 48,
+            "end_index": 55
+          }
+        ],
+        "review_id": "745233868"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "3845023",
+        "name": "Steak House Grill do Brasil",
+        "latitude": "50.430325",
+        "longitude": "30.535294",
+        "num_reviews": "334",
+        "timezone": "Europe/Kiev",
+        "location_string": "Kyiv (Kiev)",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/97/b8/49/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/97/b8/49/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/97/b8/49/caption.jpg",
+              "height": "853"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/97/b8/49/caption.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/97/b8/49/caption.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-09-12T04:31:41-0400",
+          "caption": "\u0413\u0430\u0443\u0447\u043e-\u0428\u0435\u0444 \u043f\u043e\u0432\u0430\u0440\u0430",
+          "id": "345487433",
+          "helpful_votes": "0",
+          "published_date": "2018-09-12T04:31:41-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Kyiv (Kiev)",
+            "abbrv": null,
+            "location_id": "294474"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Ukraine",
+            "abbrv": null,
+            "location_id": "294473"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "bulv. Lesi Ukrainky 24",
+          "street2": null,
+          "city": "Kyiv (Kiev)",
+          "state": null,
+          "country": "Ukraine",
+          "postalcode": "01133"
+        },
+        "address": "bulv. Lesi Ukrainky 24, Kyiv (Kiev) 01133 Ukraine",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10668",
+            "name": "Grill"
+          },
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "9908",
+            "name": "American"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 21 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We appreciate our time in Grill do Brasil.",
+        "spans": [
+          {
+            "start_index": 35,
+            "end_index": 42
+          }
+        ],
+        "review_id": "592389408"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1156930",
+        "name": "Mar Brasil Hotel",
+        "latitude": "-12.954581",
+        "longitude": "-38.352444",
+        "num_reviews": "1495",
+        "timezone": "America/Bahia",
+        "location_string": "Salvador, State of Bahia",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/f9/f5/66/studio-with-sea-view--v3843534.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/f9/f5/66/studio-with-sea-view--v3843534.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/f9/f5/66/studio-with-sea-view--v3843534.jpg",
+              "height": "1733"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/f9/f5/66/studio-with-sea-view--v3843534.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/f9/f5/66/studio-with-sea-view--v3843534.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2014-07-29T09:41:40-0400",
+          "caption": "The Studio with Sea View at the Mar Brasil Hotel",
+          "id": "117044582",
+          "helpful_votes": "1",
+          "published_date": "2014-11-29T10:54:23-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Salvador",
+            "abbrv": null,
+            "location_id": "303272"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Bahia",
+            "abbrv": "BA",
+            "location_id": "303251"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua Flamengo 44",
+          "street2": "Farol de Itapua",
+          "city": "Salvador",
+          "state": "BA",
+          "country": "Brazil",
+          "postalcode": "41635-480"
+        },
+        "address": "Rua Flamengo 44 Farol de Itapua, Salvador, State of Bahia 41635-480 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 16 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I had the pleasure to stay few days in Mar Brasil Hotel.",
+        "spans": [
+          {
+            "start_index": 43,
+            "end_index": 49
+          }
+        ],
+        "review_id": "731674283"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "1434555",
+        "name": "Bem Brasil, Deansgate",
+        "latitude": "53.48138",
+        "longitude": "-2.247897",
+        "num_reviews": "1758",
+        "timezone": "Europe/London",
+        "location_string": "Manchester, Greater Manchester, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/21/9f/3b/bem-brasil-deansgate.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/21/9f/3b/bem-brasil-deansgate.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/21/9f/3b/bem-brasil-deansgate.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/21/9f/3b/bem-brasil-deansgate.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/21/9f/3b/bem-brasil-deansgate.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2015-01-02T08:31:34-0500",
+          "caption": "Fresh Salad Bar",
+          "id": "119643963",
+          "helpful_votes": "2",
+          "published_date": "2015-01-02T08:31:34-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Manchester",
+            "abbrv": null,
+            "location_id": "187069"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Greater Manchester",
+            "abbrv": null,
+            "location_id": "187052"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "King Street West",
+          "street2": "",
+          "city": "Manchester",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "M3 2GQ"
+        },
+        "address": "King Street West, Manchester M3 2GQ England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          },
+          {
+            "key": "10749",
+            "name": "South American"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 269 reviews"
+      },
+      "review_snippet": {
+        "snippet": "And when I am in England again I will be looking out for a BEN BRASIL.",
+        "spans": [
+          {
+            "start_index": 63,
+            "end_index": 70
+          }
+        ],
+        "review_id": "745757367"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "306978",
+        "name": "Hotel Brasil Tropical",
+        "latitude": "-3.726283",
+        "longitude": "-38.49784",
+        "num_reviews": "1079",
+        "timezone": "America/Fortaleza",
+        "location_string": "Fortaleza, State of Ceara",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/7e/fe/86/hotel-brasil-tropical.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/7e/fe/86/hotel-brasil-tropical.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/7e/fe/86/hotel-brasil-tropical.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/7e/fe/86/hotel-brasil-tropical.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/7e/fe/86/hotel-brasil-tropical.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-06-06T09:46:03-0400",
+          "caption": "",
+          "id": "259980934",
+          "helpful_votes": "34",
+          "published_date": "2017-06-06T09:46:03-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Fortaleza",
+            "abbrv": null,
+            "location_id": "303293"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Ceara",
+            "abbrv": "CE",
+            "location_id": "303284"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Avenida da Abolicao 2323",
+          "street2": "Meireles",
+          "city": "Fortaleza",
+          "state": "CE",
+          "country": "Brazil",
+          "postalcode": "60165-075"
+        },
+        "address": "Avenida da Abolicao 2323 Meireles, Fortaleza, State of Ceara 60165-075 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 9 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Tropical Brasil is a hotel, situated at around 150 meters from the blue",
+        "spans": [
+          {
+            "start_index": 9,
+            "end_index": 15
+          }
+        ],
+        "review_id": "558447130"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "302710",
+        "name": "Melia Brasil 21",
+        "latitude": "-15.792928",
+        "longitude": "-47.893517",
+        "num_reviews": "3280",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Brasilia, Federal District",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/39/b8/c7/melia-brasil-21.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/39/b8/c7/melia-brasil-21.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/39/b8/c7/melia-brasil-21.jpg",
+              "height": "683"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/39/b8/c7/melia-brasil-21.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/39/b8/c7/melia-brasil-21.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-12-06T13:17:18-0500",
+          "caption": "Lobby do Hotel Melia Brasil 21, onde localiza-se o bar lounge Churchill.",
+          "id": "439990471",
+          "helpful_votes": "0",
+          "published_date": "2019-12-06T13:17:18-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Brasilia",
+            "abbrv": null,
+            "location_id": "303322"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "Federal District",
+            "abbrv": "DF",
+            "location_id": "303321"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Quadra Shs Quadra 6 Conjunto A",
+          "street2": "Bloco D - Asa Sul",
+          "city": "Brasilia",
+          "state": "DF",
+          "country": "Brazil",
+          "postalcode": "70316-000"
+        },
+        "address": "Quadra Shs Quadra 6 Conjunto A Bloco D - Asa Sul, Brasilia, Federal District 70316-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 53 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The Melia Brasil 21 is now my \"go-to\" hotel for work.",
+        "spans": [
+          {
+            "start_index": 10,
+            "end_index": 16
+          }
+        ],
+        "review_id": "744335712"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "1973175",
+        "name": "Bem Brasil Liverpool",
+        "latitude": "53.40325",
+        "longitude": "-2.984393",
+        "num_reviews": "1395",
+        "timezone": "Europe/London",
+        "location_string": "Liverpool, Merseyside, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/21/9b/b8/bem-brasil.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/21/9b/b8/bem-brasil.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/21/9b/b8/bem-brasil.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/07/21/9b/b8/bem-brasil.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/21/9b/b8/bem-brasil.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2015-01-02T08:12:24-0500",
+          "caption": "Fresh Salad Bar",
+          "id": "119643064",
+          "helpful_votes": "2",
+          "published_date": "2015-01-02T08:12:24-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Liverpool",
+            "abbrv": null,
+            "location_id": "186337"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Merseyside",
+            "abbrv": null,
+            "location_id": "191254"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "47 to 49 Hanover Street",
+          "street2": "",
+          "city": "Liverpool",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "L1 3DN"
+        },
+        "address": "47 to 49 Hanover Street, Liverpool L1 3DN England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          },
+          {
+            "key": "10749",
+            "name": "South American"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 184 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We go to Bem Brasil in Liverpool once a year or so.",
+        "spans": [
+          {
+            "start_index": 13,
+            "end_index": 19
+          }
+        ],
+        "review_id": "751006512"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "946749",
+        "name": "Pau Brasil",
+        "latitude": "51.446835",
+        "longitude": "-0.966056",
+        "num_reviews": "134",
+        "timezone": "Europe/London",
+        "location_string": "Reading, Berkshire, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/06/61/82/pau-brasil.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/06/61/82/pau-brasil.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1417",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/06/61/82/pau-brasil.jpg",
+              "height": "945"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/04/06/61/82/pau-brasil.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/06/61/82/pau-brasil.jpg",
+              "height": "366"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2013-06-09T18:24:25-0400",
+          "caption": "Pau Brasil",
+          "id": "67527042",
+          "helpful_votes": "5",
+          "published_date": "2013-06-09T18:24:25-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Reading",
+            "abbrv": null,
+            "location_id": "186363"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Berkshire",
+            "abbrv": null,
+            "location_id": "190741"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "89 Mount Pleasant",
+          "street2": "",
+          "city": "Reading",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "RG1 2TF"
+        },
+        "address": "89 Mount Pleasant, Reading RG1 2TF England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10639",
+            "name": "Latin"
+          },
+          {
+            "key": "10642",
+            "name": "Cafe"
+          },
+          {
+            "key": "10680",
+            "name": "Portuguese"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 34 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I honestly am quite a picky eater but Pau Brasil gave me a pleasant experience",
+        "spans": [
+          {
+            "start_index": 42,
+            "end_index": 48
+          }
+        ],
+        "review_id": "752467534"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "2060127",
+        "name": "Lounge Brasil Hosteria Boutique",
+        "latitude": "-39.27584",
+        "longitude": "-71.97014",
+        "num_reviews": "442",
+        "timezone": "America/Santiago",
+        "location_string": "Pucon, Araucania Region",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/43/e9/c9/lounge-brasil.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/43/e9/c9/lounge-brasil.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2736",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/43/e9/c9/lounge-brasil.jpg",
+              "height": "1824"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/43/e9/c9/lounge-brasil.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/43/e9/c9/lounge-brasil.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2020-04-17T19:54:35-0400",
+          "caption": "",
+          "id": "457435593",
+          "helpful_votes": "0",
+          "published_date": "2020-04-17T19:54:35-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Pucon",
+            "abbrv": null,
+            "location_id": "294297"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Araucania Region",
+            "abbrv": null,
+            "location_id": "2615224"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Chile",
+            "abbrv": null,
+            "location_id": "294291"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "bb",
+            "name": "Bed and Breakfast"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Colo Colo 485",
+          "street2": "",
+          "city": "Pucon",
+          "state": null,
+          "country": "Chile",
+          "postalcode": "4920000"
+        },
+        "address": "Colo Colo 485, Pucon 4920000 Chile",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 20 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Rafael and Lounge Brasil\u2019s team have so much attention to detail and hospitality",
+        "spans": [
+          {
+            "start_index": 18,
+            "end_index": 26
+          }
+        ],
+        "review_id": "736131211"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "3243475",
+        "name": "Steak Brasil Churrascaria",
+        "latitude": "25.77283",
+        "longitude": "-80.19191",
+        "num_reviews": "828",
+        "timezone": "America/New_York",
+        "location_string": "Miami, Florida",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/e5/0a/6b/steak-brasil-churrascaria.jpg",
+              "height": "140"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/e5/0a/6b/steak-brasil-churrascaria.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/e5/0a/6b/steak-brasil-churrascaria.jpg",
+              "height": "720"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/05/e5/0a/6b/steak-brasil-churrascaria.jpg",
+              "height": "576"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/e5/0a/6b/steak-brasil-churrascaria.jpg",
+              "height": "309"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2014-05-20T23:37:42-0400",
+          "caption": "Main room",
+          "id": "98896491",
+          "helpful_votes": "4",
+          "published_date": "2014-05-20T23:37:42-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Miami",
+            "abbrv": null,
+            "location_id": "34438"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "Florida",
+            "abbrv": "FL",
+            "location_id": "28930"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "190 SE 1st Ave",
+          "street2": "",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "postalcode": "33131-1002"
+        },
+        "address": "190 SE 1st Ave, Miami, FL 33131-1002",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10639",
+            "name": "Latin"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 40 reviews"
+      },
+      "review_snippet": {
+        "snippet": "selection,  including some adult and family friendly options straight from Brasil.",
+        "spans": [
+          {
+            "start_index": 75,
+            "end_index": 82
+          }
+        ],
+        "review_id": "743476669"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "8068549",
+        "name": "Vila Brasil",
+        "latitude": "40.442265",
+        "longitude": "-3.671377",
+        "num_reviews": "614",
+        "timezone": "Europe/Madrid",
+        "location_string": "Madrid",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/55/f2/1e/fachada.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/55/f2/1e/fachada.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3277",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/55/f2/1e/fachada.jpg",
+              "height": "2727"
+            },
+            "large": {
+              "width": "541",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/55/f2/1e/fachada.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "246",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/55/f2/1e/fachada.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2016-02-16T03:01:40-0500",
+          "caption": "Fachada",
+          "id": "173404702",
+          "helpful_votes": "1",
+          "published_date": "2016-02-16T03:01:40-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Madrid",
+            "abbrv": null,
+            "location_id": "187514"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Community of Madrid",
+            "abbrv": null,
+            "location_id": "562642"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle Puenteareas 1",
+          "street2": null,
+          "city": "Madrid",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "28002"
+        },
+        "address": "Calle Puenteareas 1, 28002 Madrid Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10639",
+            "name": "Latin"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 16 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Wonderful taste of Brasil, delicious meat and salad, the roasted pineapple",
+        "spans": [
+          {
+            "start_index": 19,
+            "end_index": 25
+          }
+        ],
+        "review_id": "695299917"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "4548607",
+        "name": "Mama Brasil Hostel",
+        "latitude": "-23.557978",
+        "longitude": "-46.650574",
+        "num_reviews": "271",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Sao Paulo, State of Sao Paulo",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/48/58/df/mama-brasil-hostel.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/48/58/df/mama-brasil-hostel.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "639",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/48/58/df/mama-brasil-hostel.jpg",
+              "height": "426"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/48/58/df/mama-brasil-hostel.jpg",
+              "height": "366"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/48/58/df/mama-brasil-hostel.jpg",
+              "height": "166"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2013-07-30T11:30:46-0400",
+          "caption": "O quarto de 9",
+          "id": "71850207",
+          "helpful_votes": "0",
+          "published_date": "2013-07-30T11:30:46-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Sao Paulo",
+            "abbrv": null,
+            "location_id": "303631"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Sao Paulo",
+            "abbrv": "SP",
+            "location_id": "303598"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "other",
+            "name": "Specialty Lodging"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua Itapeva 88",
+          "street2": null,
+          "city": "Sao Paulo",
+          "state": "SP",
+          "country": "Brazil",
+          "postalcode": "01332-000"
+        },
+        "address": "Rua Itapeva 88, Sao Paulo, State of Sao Paulo 01332-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 16 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Thank you so much mama brasil!!!!!",
+        "spans": [
+          {
+            "start_index": 23,
+            "end_index": 29
+          }
+        ],
+        "review_id": "494990230"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "483405",
+        "name": "Hotel Brasil Milano",
+        "latitude": "45.47057",
+        "longitude": "9.214531",
+        "num_reviews": "270",
+        "timezone": "Europe/Rome",
+        "location_string": "Milan, Lombardy",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/d8/9e/fb/facciata.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/d8/9e/fb/facciata.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "5184",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/d8/9e/fb/facciata.jpg",
+              "height": "3456"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/d8/9e/fb/facciata.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/d8/9e/fb/facciata.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2016-07-04T12:36:38-0400",
+          "caption": "FACCIATA",
+          "id": "198745851",
+          "helpful_votes": "0",
+          "published_date": "2016-07-04T12:36:38-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "2.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Milan",
+            "abbrv": null,
+            "location_id": "187849"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Lombardy",
+            "abbrv": null,
+            "location_id": "187829"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Italy",
+            "abbrv": null,
+            "location_id": "187768"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Via Gustavo Modena 20",
+          "street2": "",
+          "city": "Milan",
+          "state": null,
+          "country": "Italy",
+          "postalcode": "20129"
+        },
+        "address": "Via Gustavo Modena 20, 20129 Milan Italy",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 14 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I booked a quadruple room for my stay at Hotel Brasil Milan from 12th Aug",
+        "spans": [
+          {
+            "start_index": 47,
+            "end_index": 53
+          }
+        ],
+        "review_id": "698686217"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "459081",
+        "name": "Via Brasil Restaurant",
+        "latitude": "40.756836",
+        "longitude": "-73.98075",
+        "num_reviews": "466",
+        "timezone": "America/New_York",
+        "location_string": "New York City, New York",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/a8/12/8a/photo0jpg.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/a8/12/8a/photo0jpg.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2048",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/a8/12/8a/photo0jpg.jpg",
+              "height": "1536"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a8/12/8a/photo0jpg.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/a8/12/8a/photo0jpg.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-03-13T15:31:08-0400",
+          "caption": "",
+          "id": "245895818",
+          "helpful_votes": "1",
+          "published_date": "2017-03-13T15:31:08-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "New York City",
+            "abbrv": null,
+            "location_id": "60763"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "New York",
+            "abbrv": "NY",
+            "location_id": "28953"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "34 W 46th St",
+          "street2": "",
+          "city": "New York City",
+          "state": "NY",
+          "country": "United States",
+          "postalcode": "10036-4520"
+        },
+        "address": "34 W 46th St, New York City, NY 10036-4520",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10639",
+            "name": "Latin"
+          },
+          {
+            "key": "10749",
+            "name": "South American"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 43 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Don't go past Via Brasil, service is first class with excellent knowledge",
+        "spans": [
+          {
+            "start_index": 18,
+            "end_index": 24
+          }
+        ],
+        "review_id": "704769692"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "311284",
+        "name": "Centro Cultural Banco do Brasil - CCBB Rio de Janeiro",
+        "latitude": "-22.901",
+        "longitude": "-43.17629",
+        "num_reviews": "8627",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Rio de Janeiro, State of Rio de Janeiro",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/94/ad/33/img-20151122-113050-largejpg.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/94/ad/33/img-20151122-113050-largejpg.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/94/ad/33/img-20151122-113050-largejpg.jpg",
+              "height": "717"
+            },
+            "large": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/94/ad/33/img-20151122-113050-largejpg.jpg",
+              "height": "717"
+            },
+            "medium": {
+              "width": "451",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/94/ad/33/img-20151122-113050-largejpg.jpg",
+              "height": "450"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2015-11-22T08:36:16-0500",
+          "caption": "",
+          "id": "160738611",
+          "helpful_votes": "1",
+          "published_date": "2015-11-22T08:36:16-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Rio de Janeiro",
+            "abbrv": null,
+            "location_id": "303506"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Rio de Janeiro",
+            "abbrv": "RJ",
+            "location_id": "303488"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "attraction",
+          "name": "Attraction"
+        },
+        "subcategory": [
+          {
+            "key": "47",
+            "name": "Sights & Landmarks"
+          },
+          {
+            "key": "49",
+            "name": "Museums"
+          },
+          {
+            "key": "60",
+            "name": "Traveler Resources"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua Primeiro de Marco 66",
+          "street2": null,
+          "city": "Rio de Janeiro",
+          "state": "RJ",
+          "country": "Brazil",
+          "postalcode": "20010-000"
+        },
+        "address": "Rua Primeiro de Marco 66, Rio de Janeiro, State of Rio de Janeiro 20010-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "fee": "NO",
+        "shopping_type": "none"
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 57 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The CCBB is housed in the former Bank of Brasil building, which was repurposed",
+        "spans": [
+          {
+            "start_index": 41,
+            "end_index": 47
+          }
+        ],
+        "review_id": "652914791"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "12000040",
+        "name": "Casa Brasil Southampton Westquay",
+        "latitude": "50.90215",
+        "longitude": "-1.40708",
+        "num_reviews": "316",
+        "timezone": "Europe/London",
+        "location_string": "Southampton, Hampshire, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/34/d6/93/super-new-restaurant.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/34/d6/93/super-new-restaurant.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1536",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/34/d6/93/super-new-restaurant.jpg",
+              "height": "2048"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-p/0e/34/d6/93/super-new-restaurant.jpg",
+              "height": "733"
+            },
+            "medium": {
+              "width": "338",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/34/d6/93/super-new-restaurant.jpg",
+              "height": "450"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-01-19T18:09:05-0500",
+          "caption": "Super new restaurant with some theatre\ud83d\ude0d",
+          "id": "238343827",
+          "helpful_votes": "0",
+          "published_date": "2017-01-19T18:09:05-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Southampton",
+            "abbrv": null,
+            "location_id": "186299"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Hampshire",
+            "abbrv": null,
+            "location_id": "186296"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Level 2 West Quay South",
+          "street2": "West Quay South",
+          "city": "Southampton",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "SO15 1DE"
+        },
+        "address": "Level 2 West Quay South West Quay South, Southampton SO15 1DE England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 55 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We used to go to Casa Brasil when it was on oxford street in Southampton",
+        "spans": [
+          {
+            "start_index": 22,
+            "end_index": 28
+          }
+        ],
+        "review_id": "743409907"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "657068",
+        "name": "Villa Brasil Motel",
+        "latitude": "33.999157",
+        "longitude": "-118.41824",
+        "num_reviews": "82",
+        "timezone": "America/Los_Angeles",
+        "location_string": "Los Angeles, California",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/e7/a7/39/a-view-of-our-room-from.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/e7/a7/39/a-view-of-our-room-from.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2592",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/e7/a7/39/a-view-of-our-room-from.jpg",
+              "height": "1936"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/e7/a7/39/a-view-of-our-room-from.jpg",
+              "height": "410"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/e7/a7/39/a-view-of-our-room-from.jpg",
+              "height": "186"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2011-06-15T14:09:45-0400",
+          "caption": "A view of our room from the outside - quaint and lovely",
+          "id": "31958841",
+          "helpful_votes": "0",
+          "published_date": "2011-06-20T06:02:29-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Los Angeles",
+            "abbrv": null,
+            "location_id": "32655"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "California",
+            "abbrv": "CA",
+            "location_id": "28926"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "11740 W Washington Blvd",
+          "street2": "",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "postalcode": "90066-5918"
+        },
+        "address": "11740 W Washington Blvd, Los Angeles, CA 90066-5918",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 12 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Our family of 4 stayed in 2 rooms for 3 nights at Villa Brasil Motel, a",
+        "spans": [
+          {
+            "start_index": 56,
+            "end_index": 62
+          }
+        ],
+        "review_id": "701280962"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "14000493",
+        "name": "Via Brasil",
+        "latitude": "26.214369",
+        "longitude": "50.599377",
+        "num_reviews": "128",
+        "timezone": "Asia/Bahrain",
+        "location_string": "Manama",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/f1/ae/15/via-brasil.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/f1/ae/15/via-brasil.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1200",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/f1/ae/15/via-brasil.jpg",
+              "height": "800"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/f1/ae/15/via-brasil.jpg",
+              "height": "683"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/f1/ae/15/via-brasil.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-03-26T06:10:31-0400",
+          "caption": "",
+          "id": "384937493",
+          "helpful_votes": "0",
+          "published_date": "2019-03-26T06:10:31-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Manama",
+            "abbrv": null,
+            "location_id": "293997"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Bahrain",
+            "abbrv": null,
+            "location_id": "293996"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Building 65, Road 4003, Block 340,",
+          "street2": "Juffair, Kingdom of Bahrain",
+          "city": "Manama",
+          "state": null,
+          "country": "Bahrain",
+          "postalcode": null
+        },
+        "address": "Building 65, Road 4003, Block 340, Juffair, Kingdom of Bahrain, Manama Bahrain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10639",
+            "name": "Latin"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          },
+          {
+            "key": "10655",
+            "name": "Spanish"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 24 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Via Brasil sure is one top-notch churrascaria.",
+        "spans": [
+          {
+            "start_index": 4,
+            "end_index": 10
+          }
+        ],
+        "review_id": "735832847"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "532230",
+        "name": "Centro Cultural Banco do Brasil",
+        "latitude": "-23.547543",
+        "longitude": "-46.63464",
+        "num_reviews": "7104",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Sao Paulo, State of Sao Paulo",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/c5/0a/02/foto-panoramica.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/c5/0a/02/foto-panoramica.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "984",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/c5/0a/02/foto-panoramica.jpg",
+              "height": "333"
+            },
+            "large": {
+              "width": "984",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/c5/0a/02/foto-panoramica.jpg",
+              "height": "333"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/c5/0a/02/foto-panoramica.jpg",
+              "height": "186"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-04-27T14:59:06-0400",
+          "caption": "FOTO1",
+          "id": "314903042",
+          "helpful_votes": "7",
+          "published_date": "2018-04-27T14:59:06-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Sao Paulo",
+            "abbrv": null,
+            "location_id": "303631"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Sao Paulo",
+            "abbrv": "SP",
+            "location_id": "303598"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "attraction",
+          "name": "Attraction"
+        },
+        "subcategory": [
+          {
+            "key": "20",
+            "name": "Nightlife"
+          },
+          {
+            "key": "47",
+            "name": "Sights & Landmarks"
+          },
+          {
+            "key": "49",
+            "name": "Museums"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua Alvares Penteado 112",
+          "street2": "Pr\u00f3ximo ao metr\u00f4 S\u00e3o Bento",
+          "city": "Sao Paulo",
+          "state": "SP",
+          "country": "Brazil",
+          "postalcode": "01012-000"
+        },
+        "address": "Rua Alvares Penteado 112 Pr\u00f3ximo ao metr\u00f4 S\u00e3o Bento, Sao Paulo, State of Sao Paulo 01012-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "fee": "NO",
+        "shopping_type": "none"
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 25 reviews"
+      },
+      "review_snippet": {
+        "snippet": "It's an old building that used to be the head quarters of Banco do Brasil",
+        "spans": [
+          {
+            "start_index": 67,
+            "end_index": 73
+          }
+        ],
+        "review_id": "502943351"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "2253226",
+        "name": "Thai Brasil",
+        "latitude": "-23.219921",
+        "longitude": "-44.714382",
+        "num_reviews": "1189",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Paraty, State of Rio de Janeiro",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/3d/26/7d/interior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/3d/26/7d/interior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1998",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/3d/26/7d/interior.jpg",
+              "height": "1500"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/3d/26/7d/interior.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/3d/26/7d/interior.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-08-11T19:24:00-0400",
+          "caption": "INTERIOR",
+          "id": "272443005",
+          "helpful_votes": "2",
+          "published_date": "2017-08-11T19:24:00-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Paraty",
+            "abbrv": null,
+            "location_id": "303503"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Rio de Janeiro",
+            "abbrv": "RJ",
+            "location_id": "303488"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua do Comercio 308A",
+          "street2": "Centro Historico",
+          "city": "Paraty",
+          "state": "RJ",
+          "country": "Brazil",
+          "postalcode": "23970-000"
+        },
+        "address": "Rua do Comercio 308A Centro Historico, Paraty, State of Rio de Janeiro 23970-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10659",
+            "name": "Asian"
+          },
+          {
+            "key": "10660",
+            "name": "Thai"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 29 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I can recommend Thai Brasil.",
+        "spans": [
+          {
+            "start_index": 21,
+            "end_index": 28
+          }
+        ],
+        "review_id": "748006215"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "1209621",
+        "name": "Via Brasil Steakhouse",
+        "latitude": "36.156933",
+        "longitude": "-115.29206",
+        "num_reviews": "165",
+        "timezone": "America/Los_Angeles",
+        "location_string": "Las Vegas, Nevada",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/f1/39/82/via-brasil-steakhouse.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/f1/39/82/via-brasil-steakhouse.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "960",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/f1/39/82/via-brasil-steakhouse.jpg",
+              "height": "960"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-p/16/f1/39/82/via-brasil-steakhouse.jpg",
+              "height": "550"
+            },
+            "medium": {
+              "width": "450",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/f1/39/82/via-brasil-steakhouse.jpg",
+              "height": "450"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-03-26T01:16:56-0400",
+          "caption": "Via Brasil Steakhouse Logo",
+          "id": "384907650",
+          "helpful_votes": "0",
+          "published_date": "2019-03-26T01:16:56-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Las Vegas",
+            "abbrv": null,
+            "location_id": "45963"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "Nevada",
+            "abbrv": "NV",
+            "location_id": "28949"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1225 S Fort Apache Rd",
+          "street2": "#100",
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "postalcode": "89117-5498"
+        },
+        "address": "1225 S Fort Apache Rd #100, Las Vegas, NV 89117-5498",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 32 reviews"
+      },
+      "review_snippet": {
+        "snippet": "It's been a good 6+ years since my last visit and Via Brasil knocked it",
+        "spans": [
+          {
+            "start_index": 54,
+            "end_index": 60
+          }
+        ],
+        "review_id": "700765810"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "468598",
+        "name": "Cafe Brasil",
+        "latitude": "36.967484",
+        "longitude": "-122.039185",
+        "num_reviews": "177",
+        "timezone": "America/Los_Angeles",
+        "location_string": "Santa Cruz, California",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/6a/3f/c3/omelette-brasileiro.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/6a/3f/c3/omelette-brasileiro.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/6a/3f/c3/omelette-brasileiro.jpg",
+              "height": "450"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/6a/3f/c3/omelette-brasileiro.jpg",
+              "height": "412"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/01/6a/3f/c3/omelette-brasileiro.jpg",
+              "height": "187"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2010-02-09T16:10:21-0500",
+          "caption": "Omelette Brasileiro",
+          "id": "23740355",
+          "helpful_votes": "2",
+          "published_date": "2010-02-10T06:20:39-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Santa Cruz",
+            "abbrv": null,
+            "location_id": "33048"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "California",
+            "abbrv": "CA",
+            "location_id": "28926"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1410 Mission St",
+          "street2": null,
+          "city": "Santa Cruz",
+          "state": "CA",
+          "country": "United States",
+          "postalcode": "95060-4739"
+        },
+        "address": "1410 Mission St, Santa Cruz, CA 95060-4739",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10642",
+            "name": "Cafe"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 33 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Cafe Brasil has a lovely space, but is small and popular so plan ahead",
+        "spans": [
+          {
+            "start_index": 5,
+            "end_index": 11
+          }
+        ],
+        "review_id": "683312498"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "1157665",
+        "name": "Parque Nacional dos Lencois Maranhenses",
+        "latitude": "-2.75908",
+        "longitude": "-42.83937",
+        "num_reviews": "4924",
+        "timezone": "America/Fortaleza",
+        "location_string": "Barreirinhas, State of Maranhao",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/4c/31/37/lencois.jpg",
+              "height": "141"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/4c/31/37/lencois.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/4c/31/37/lencois.jpg",
+              "height": "1125"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/4c/31/37/lencois.jpg",
+              "height": "576"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/4c/31/37/lencois.jpg",
+              "height": "309"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2017-11-17T09:47:00-0500",
+          "caption": "Len\u00e7ois",
+          "id": "290206007",
+          "helpful_votes": "5",
+          "published_date": "2017-11-17T09:47:00-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Barreirinhas",
+            "abbrv": null,
+            "location_id": "671558"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Maranhao",
+            "abbrv": "MA",
+            "location_id": "303325"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "attraction",
+          "name": "Attraction"
+        },
+        "subcategory": [
+          {
+            "key": "57",
+            "name": "Nature & Parks"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Av. Amapa,sn. Amapa",
+          "street2": null,
+          "city": "Barreirinhas",
+          "state": "MA",
+          "country": "Brazil",
+          "postalcode": "65590-000"
+        },
+        "address": "Av. Amapa,sn. Amapa, Barreirinhas, State of Maranhao 65590-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "shopping_type": "none"
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 13 reviews"
+      },
+      "review_snippet": {
+        "snippet": "guides Genario Peixoto and Rosinha in June 2018 during our honey moon in Brasil.",
+        "spans": [
+          {
+            "start_index": 73,
+            "end_index": 80
+          }
+        ],
+        "review_id": "599475222"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1734842",
+        "name": "Hotel Brasil",
+        "latitude": "44.27235",
+        "longitude": "12.354374",
+        "num_reviews": "256",
+        "timezone": "Europe/Rome",
+        "location_string": "Milano Marittima, Cervia, Province of Ravenna, Emilia-Romagna",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/f6/1b/19/hotel-brasil.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/f6/1b/19/hotel-brasil.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/f6/1b/19/hotel-brasil.jpg",
+              "height": "1067"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/f6/1b/19/hotel-brasil.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/f6/1b/19/hotel-brasil.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-08-02T11:53:14-0400",
+          "caption": "",
+          "id": "334895897",
+          "helpful_votes": "1",
+          "published_date": "2018-08-02T11:53:14-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Milano Marittima",
+            "abbrv": null,
+            "location_id": "194823"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Cervia",
+            "abbrv": null,
+            "location_id": "194729"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "province",
+                "name": "Province"
+              }
+            ],
+            "name": "Province of Ravenna",
+            "abbrv": null,
+            "location_id": "2192945"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Emilia-Romagna",
+            "abbrv": null,
+            "location_id": "187800"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Italy",
+            "abbrv": null,
+            "location_id": "187768"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Viale Domenico Cimarosa 13",
+          "street2": "",
+          "city": "Milano Marittima",
+          "state": null,
+          "country": "Italy",
+          "postalcode": "48015"
+        },
+        "address": "Viale Domenico Cimarosa 13, 48015 Milano Marittima, Cervia Italy",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 4 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Thank you, Hotel Brasil! See you next year!",
+        "spans": [
+          {
+            "start_index": 17,
+            "end_index": 23
+          }
+        ],
+        "review_id": "595995594"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "2166383",
+        "name": "Amazon Brasil Jungle Tours - Day Tours",
+        "latitude": "-3.130085",
+        "longitude": "-60.02115",
+        "num_reviews": "362",
+        "timezone": "America/Manaus",
+        "location_string": "Manaus, Amazon River, State of Amazonas",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/ae/b1/bb/amazon-boat-cruise.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/ae/b1/bb/amazon-boat-cruise.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/ae/b1/bb/amazon-boat-cruise.jpg",
+              "height": "960"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/ae/b1/bb/amazon-boat-cruise.jpg",
+              "height": "412"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/ae/b1/bb/amazon-boat-cruise.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-09-16T23:11:17-0400",
+          "caption": "Amazon Boat Cruise",
+          "id": "279884219",
+          "helpful_votes": "2",
+          "published_date": "2017-09-16T23:11:17-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "location_subtype": "tour_operator",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Manaus",
+            "abbrv": null,
+            "location_id": "303235"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "region",
+                "name": "Region"
+              }
+            ],
+            "name": "Amazon River",
+            "abbrv": null,
+            "location_id": "793795"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "State of Amazonas",
+            "abbrv": "AM",
+            "location_id": "303226"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "attraction",
+          "name": "Attraction"
+        },
+        "subcategory": [
+          {
+            "key": "42",
+            "name": "Tours"
+          },
+          {
+            "key": "61",
+            "name": "Outdoor Activities"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Rua 10 de Julho 708",
+          "street2": null,
+          "city": "Manaus",
+          "state": "AM",
+          "country": "Brazil",
+          "postalcode": "69010-060"
+        },
+        "address": "Rua 10 de Julho 708, Manaus, State of Amazonas 69010-060 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "shopping_type": "none"
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 25 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We choose Amazon Brasil Jungle Tours for 3 days and we were very satisfied",
+        "spans": [
+          {
+            "start_index": 17,
+            "end_index": 23
+          }
+        ],
+        "review_id": "752825935"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "1439164",
+        "name": "Bem Brasil Northern Quarter",
+        "latitude": "53.484074",
+        "longitude": "-2.231533",
+        "num_reviews": "616",
+        "timezone": "Europe/London",
+        "location_string": "Manchester, Greater Manchester, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/ff/61/ce/bem-brasil-northern-quarter.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/ff/61/ce/bem-brasil-northern-quarter.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/ff/61/ce/bem-brasil-northern-quarter.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/06/ff/61/ce/bem-brasil-northern-quarter.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/ff/61/ce/bem-brasil-northern-quarter.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2014-12-03T11:59:47-0500",
+          "caption": "Salad Bar",
+          "id": "117400014",
+          "helpful_votes": "0",
+          "published_date": "2014-12-03T11:59:47-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Manchester",
+            "abbrv": null,
+            "location_id": "187069"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Greater Manchester",
+            "abbrv": null,
+            "location_id": "187052"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "58 Lever Street",
+          "street2": "",
+          "city": "Manchester",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "M1 1FJ"
+        },
+        "address": "58 Lever Street, Manchester M1 1FJ England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10345",
+            "name": "Steakhouse"
+          },
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          },
+          {
+            "key": "10749",
+            "name": "South American"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 111 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I have been to several different Bem Brasil's and many restaurants of a",
+        "spans": [
+          {
+            "start_index": 37,
+            "end_index": 45
+          }
+        ],
+        "review_id": "736220010"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "307525",
+        "name": "Brasil 21 Suites",
+        "latitude": "-15.792889",
+        "longitude": "-47.893585",
+        "num_reviews": "384",
+        "timezone": "America/Sao_Paulo",
+        "location_string": "Brasilia, Federal District",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/de/18/67/presidencial.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/de/18/67/presidencial.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/de/18/67/presidencial.jpg",
+              "height": "1335"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/de/18/67/presidencial.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/de/18/67/presidencial.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2016-12-13T13:06:54-0500",
+          "caption": "Presidencial",
+          "id": "232659047",
+          "helpful_votes": "1",
+          "published_date": "2016-12-13T13:06:54-0500",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": {
+          "desktop": [],
+          "mobile": []
+        },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "city",
+                "name": "City"
+              }
+            ],
+            "name": "Brasilia",
+            "abbrv": null,
+            "location_id": "303322"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "state",
+                "name": "State"
+              }
+            ],
+            "name": "Federal District",
+            "abbrv": "DF",
+            "location_id": "303321"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "Brazil",
+            "abbrv": null,
+            "location_id": "294280"
+          }
+        ],
+        "category": {
+          "key": "hotel",
+          "name": "Hotel"
+        },
+        "subcategory": [
+          {
+            "key": "hotel",
+            "name": "Hotel"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Quadra Shs Quadra 6 Conjunto A, Bloco F",
+          "street2": "Complex Brasil 21",
+          "city": "Brasilia",
+          "state": "DF",
+          "country": "Brazil",
+          "postalcode": "70316-000"
+        },
+        "address": "Quadra Shs Quadra 6 Conjunto A, Bloco F Complex Brasil 21, Brasilia, Federal District 70316-000 Brazil",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 10 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Brazil either for business or pleasure, you may consider to be lodged at Brasil",
+        "spans": [
+          {
+            "start_index": 73,
+            "end_index": 79
+          }
+        ],
+        "review_id": "413659615"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "8367148",
+        "name": "Casa Brasil",
+        "latitude": "50.841087",
+        "longitude": "-1.098371",
+        "num_reviews": "677",
+        "timezone": "Europe/London",
+        "location_string": "Portsmouth, Hampshire, England",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/2b/af/7b/getlstd-property-photo.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/2b/af/7b/getlstd-property-photo.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/2b/af/7b/getlstd-property-photo.jpg",
+              "height": "600"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-p/08/2b/af/7b/getlstd-property-photo.jpg",
+              "height": "550"
+            },
+            "medium": {
+              "width": "450",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/2b/af/7b/getlstd-property-photo.jpg",
+              "height": "450"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2015-06-24T15:01:54-0400",
+          "caption": "getlstd_property_photo",
+          "id": "137080699",
+          "helpful_votes": "2",
+          "published_date": "2015-06-24T15:01:54-0400",
+          "user": {
+            "user_id": null,
+            "member_id": "0",
+            "type": "user"
+          }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [
+              {
+                "key": "municipality",
+                "name": "Municipality"
+              }
+            ],
+            "name": "Portsmouth",
+            "abbrv": null,
+            "location_id": "186298"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "county",
+                "name": "County"
+              }
+            ],
+            "name": "Hampshire",
+            "abbrv": null,
+            "location_id": "186296"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "nation",
+                "name": "Nation"
+              }
+            ],
+            "name": "England",
+            "abbrv": null,
+            "location_id": "186217"
+          },
+          {
+            "subcategory": [
+              {
+                "key": "country",
+                "name": "Country"
+              }
+            ],
+            "name": "United Kingdom",
+            "abbrv": "UK",
+            "location_id": "186216"
+          }
+        ],
+        "category": {
+          "key": "restaurant",
+          "name": "Restaurant"
+        },
+        "subcategory": [
+          {
+            "key": "sit_down",
+            "name": "Sit down"
+          }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "44/45 The Boardwalk",
+          "street2": "Port Solent",
+          "city": "Portsmouth",
+          "state": null,
+          "country": "United Kingdom",
+          "postalcode": "PO6 4TP"
+        },
+        "address": "44/45 The Boardwalk Port Solent, Portsmouth PO6 4TP England",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          {
+            "key": "10348",
+            "name": "Brazilian"
+          },
+          {
+            "key": "10651",
+            "name": "Barbecue"
+          }
+        ],
+        "establishment_types": [
+          {
+            "key": "10591",
+            "name": "Restaurants"
+          }
+        ]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 91 reviews"
+      },
+      "review_snippet": {
+        "snippet": "For \u00a32 you can get a Cassa Brasil loyalty which accumulates points based",
+        "spans": [
+          {
+            "start_index": 27,
+            "end_index": 33
+          }
+        ],
+        "review_id": "725138115"
+      },
+      "scope": "local"
+    }
+  ],
+  "metadata": {
+    "scope": "local"
+  },
+  "sort": [
+    {
+      "filter_key": "relevance",
+      "label": "Relevance",
+      "locale_independent_label": "relevance",
+      "selected": true
+    },
+    {
+      "filter_key": "distance",
+      "label": "Distance",
+      "locale_independent_label": "distance",
+      "selected": false
+    }
+  ],
+  "partial_content": false,
+  "tracking": {
+    "search_id": "17F13104A675105FA427C7C4C419049C1593306659653"
+  },
+  "paging": {
+    "results": "30",
+    "total_results": "569318"
+  }
+}
